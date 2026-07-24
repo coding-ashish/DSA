@@ -14,6 +14,7 @@ Contains various DSA Questions that I have solved
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/coding-ashish/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/coding-ashish/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/coding-ashish/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -21,6 +22,7 @@ Contains various DSA Questions that I have solved
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/coding-ashish/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/coding-ashish/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/coding-ashish/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -39,6 +41,7 @@ Contains various DSA Questions that I have solved
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/coding-ashish/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/coding-ashish/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
