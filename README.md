@@ -42,6 +42,7 @@ Contains various DSA Questions that I have solved
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/coding-ashish/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## String
@@ -49,6 +50,7 @@ Contains various DSA Questions that I have solved
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/coding-ashish/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/coding-ashish/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Counting
@@ -99,4 +101,8 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
