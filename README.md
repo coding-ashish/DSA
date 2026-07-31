@@ -89,18 +89,22 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
