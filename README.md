@@ -13,6 +13,7 @@ Contains various DSA Questions that I have solved
 | [0930-binary-subarrays-with-sum](https://github.com/coding-ashish/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/coding-ashish/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coding-ashish/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coding-ashish/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
@@ -47,6 +48,7 @@ Contains various DSA Questions that I have solved
 | [0628-maximum-product-of-three-numbers](https://github.com/coding-ashish/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
@@ -123,11 +125,13 @@ Contains various DSA Questions that I have solved
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
