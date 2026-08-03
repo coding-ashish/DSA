@@ -8,6 +8,7 @@ Contains various DSA Questions that I have solved
 | ------- | ------- |
 | [0078-subsets](https://github.com/coding-ashish/DSA/tree/main/0078-subsets/) | Medium |
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/coding-ashish/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/coding-ashish/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -71,6 +72,7 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/coding-ashish/DSA/tree/main/0078-subsets/) | Medium |
+| [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Game Theory
@@ -136,4 +139,12 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
