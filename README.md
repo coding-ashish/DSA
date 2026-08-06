@@ -59,6 +59,7 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/coding-ashish/DSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/coding-ashish/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -131,6 +132,7 @@ Contains various DSA Questions that I have solved
 | [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -159,4 +161,8 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
