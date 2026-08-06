@@ -52,6 +52,7 @@ Contains various DSA Questions that I have solved
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## String
@@ -154,4 +155,8 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
