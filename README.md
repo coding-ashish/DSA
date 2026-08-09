@@ -14,6 +14,7 @@ Contains various DSA Questions that I have solved
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/coding-ashish/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/coding-ashish/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coding-ashish/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -41,6 +42,7 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/coding-ashish/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coding-ashish/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Math
@@ -49,6 +51,7 @@ Contains various DSA Questions that I have solved
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/coding-ashish/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -134,6 +137,7 @@ Contains various DSA Questions that I have solved
 | [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -142,6 +146,7 @@ Contains various DSA Questions that I have solved
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -172,4 +177,12 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
