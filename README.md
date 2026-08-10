@@ -54,6 +54,7 @@ Contains various DSA Questions that I have solved
 | [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/coding-ashish/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -140,6 +141,7 @@ Contains various DSA Questions that I have solved
 | [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -148,6 +150,7 @@ Contains various DSA Questions that I have solved
 | [0877-stone-game](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,8 +184,18 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
