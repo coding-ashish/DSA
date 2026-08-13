@@ -19,6 +19,7 @@ Contains various DSA Questions that I have solved
 | [1406-stone-game-iii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coding-ashish/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coding-ashish/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Hash Table
@@ -70,6 +71,7 @@ Contains various DSA Questions that I have solved
 | [0076-minimum-window-substring](https://github.com/coding-ashish/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/coding-ashish/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -204,4 +206,12 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
