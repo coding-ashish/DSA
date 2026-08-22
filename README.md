@@ -73,6 +73,7 @@ Contains various DSA Questions that I have solved
 | [3345-smallest-divisible-digit-product-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
