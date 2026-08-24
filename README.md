@@ -249,4 +249,5 @@ Contains various DSA Questions that I have solved
 | [1148-article-views-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
