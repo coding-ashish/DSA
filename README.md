@@ -246,6 +246,7 @@ Contains various DSA Questions that I have solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
