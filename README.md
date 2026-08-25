@@ -247,6 +247,7 @@ Contains various DSA Questions that I have solved
 | ------- | ------- |
 | [0595-big-countries](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
