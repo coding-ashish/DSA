@@ -245,6 +245,7 @@ Contains various DSA Questions that I have solved
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0197-rising-temperature](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0595-big-countries](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
