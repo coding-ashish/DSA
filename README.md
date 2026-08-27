@@ -250,6 +250,7 @@ Contains various DSA Questions that I have solved
 | [1068-product-sales-analysis-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
