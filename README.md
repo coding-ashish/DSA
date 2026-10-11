@@ -79,6 +79,7 @@ Contains various DSA Questions that I have solved
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/coding-ashish/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/coding-ashish/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -157,6 +158,7 @@ Contains various DSA Questions that I have solved
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0486-predict-the-winner](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
@@ -259,4 +261,12 @@ Contains various DSA Questions that I have solved
 | [1729-find-followers-count](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/coding-ashish/DSA/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
